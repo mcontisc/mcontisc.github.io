@@ -1,15 +1,15 @@
 ---
 layout: about
-title: about
+title: <i class="fa-sharp fa-solid fa-house-user"></i> about
 permalink: /
-subtitle: Postdoctoral researcher @ Central European University
+subtitle: <font color="#B7B1AC"> Postdoctoral researcher @ Central European University </font>
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> <a href=https://maps.app.goo.gl/xSd9c2w2StvNLct97> <i class="fa-sharp fa-solid fa-location-dot" style="color: #048196;"> </i> </a> Office D-303</p>
+    <p> <a href=https://maps.app.goo.gl/xSd9c2w2StvNLct97><i class="fa-sharp fa-solid fa-location-dot" style="color: #048196;"></i></a> Office D-303</p>
     <p>Department of Network and Data Science</p>
     <p>Central European University</p>
 
@@ -18,8 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research focuses on the development of statistical methods and algorithms to analyze complex systems, with a particular interest in network inference. Currently, I am working on the MOMA (Multiscale network modelling of migration flows in Austria) project together with [Tiago P. Peixoto](https://skewed.de/tiago/) and [Márton Karsai](https://www.martonkarsai.com/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I completed a Ph.D. in Computer Science at the [Max Planck Institute for Intelligent Systems](https://is.mpg.de) and the [University of Tübingen](https://uni-tuebingen.de), supervised by [Dr. Caterina De Bacco](https://www.cdebacco.com), with a doctoral dissertation entitled ``Probabilistic Generative Models for Inference on Complex Systems''. My Ph.D. has been supported by the [Cyber Valley](https://cyber-valley.de/en) and the International Max Planck Research School for Intelligent Systems ([IMPRS-IS](https://imprs.is.mpg.de/)). I also hold a master's degree in Data Science and a bachelor's degree in Statistics for Business and Economics, both from the [University of Padua](https://www.unipd.it/en/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
