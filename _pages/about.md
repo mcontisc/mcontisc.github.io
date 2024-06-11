@@ -2,19 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoctoral researcher @ Central European University
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> <a href=https://maps.app.goo.gl/xSd9c2w2StvNLct97> <i class="fa-sharp fa-solid fa-location-dot" style="color: #048196;"> </i> </a> Office D-303</p>
+    <p>Department of Network and Data Science</p>
+    <p>Central European University</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
