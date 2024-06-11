@@ -1,6 +1,6 @@
 ---
 layout: about
-title: <i class="fa-sharp fa-solid fa-house-user"></i> about
+title: About
 permalink: /
 subtitle: <font color="#B7B1AC"> Postdoctoral researcher @ Central European University </font>
 
