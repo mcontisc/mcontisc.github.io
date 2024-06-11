@@ -1,6 +1,6 @@
 ---
 layout: about
-title:  about
+title: about
 permalink: /
 subtitle: <font color="#ADA8A4"> Postdoctoral researcher @ Central European University </font>
 
