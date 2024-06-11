@@ -1,6 +1,6 @@
 ---
 layout: about
-title: <link rel="icon" type="image/x-icon" href="/images/favicon.ico"> about
+title:  about
 permalink: /
 subtitle: <font color="#ADA8A4"> Postdoctoral researcher @ Central European University </font>
 
@@ -22,3 +22,4 @@ My research focuses on the development of statistical methods and algorithms to 
 
 I completed a Ph.D. in Computer Science at the [Max Planck Institute for Intelligent Systems](https://is.mpg.de) and the [University of Tübingen](https://uni-tuebingen.de), supervised by [Dr. Caterina De Bacco](https://www.cdebacco.com), with a doctoral dissertation entitled "Probabilistic Generative Models for Inference on Complex Systems". My Ph.D. has been supported by the [Cyber Valley](https://cyber-valley.de/en) and the International Max Planck Research School for Intelligent Systems ([IMPRS-IS](https://imprs.is.mpg.de/)). I also hold a master's degree in Data Science and a bachelor's degree in Statistics for Business and Economics, both from the [University of Padua](https://www.unipd.it/en/).
 
+To download my CV, click [here](MartinaContisciani_CV.pdf).
