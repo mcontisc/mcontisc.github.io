@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> <a href=https://maps.app.goo.gl/xSd9c2w2StvNLct97><i class="fa-sharp fa-solid fa-location-dot" style="color: #048196;"></i></a> Office D-303</p>
-    <p>Department of Network and Data Science</p>
+    <p><a href=https://networkdatascience.ceu.edu/>Department of Network and Data Science</a></p>
     <p>Central European University</p>
 
 news: true # includes a list of news items
