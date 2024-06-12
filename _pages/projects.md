@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Add main research directions as explained in the thesis.
 nav: true
 nav_order: 1
 display_categories: [work, fun]
