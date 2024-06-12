@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined the<a href="https://skewed.de/tiago/">Inferential Network Science group</a> as a postdoctoral researcher.
+<i class="fa-sharp fa-solid fa-briefcase"></i> I joined the <a href="https://skewed.de/tiago/">Inferential Network Science group</a> as a postdoctoral researcher.
