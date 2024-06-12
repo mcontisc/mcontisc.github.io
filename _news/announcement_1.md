@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-01-30
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+<i class="fa-sharp fa-solid fa-graduation-cap"></i> I successfully defended my PhD thesis "<a href="https://publikationen.uni-tuebingen.de/xmlui/handle/10900/151410">Probabilistic generative models for inference on complex systems</a>".
