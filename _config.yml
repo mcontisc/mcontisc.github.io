@@ -322,8 +322,8 @@ scholar:
   query: "@*"
   #group_by: year
   #group_order: descending
-  sort_by: year
-  order: descending
+  sort_by: year, month
+  order: descending, descending
   type_order: [unpublished, article]
   type_names: {unpublished: pre-prints, article: journal articles}
 
