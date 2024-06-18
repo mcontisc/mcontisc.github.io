@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 1
 display_categories: [work, fun]
-horizontal: true
+horizontal: false
 ---
 
 I am interested in developing **probabilistic generative models** to 
