@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <font color="#ADADAD"> Postdoctoral researcher @ Central European University </font>
+subtitle: <font color="#9E9E9E"> Postdoctoral researcher @ Central European University </font>
 
 profile:
   align: right
