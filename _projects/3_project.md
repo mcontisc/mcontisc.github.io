@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
+title: Higher-order data
+description: Perform inference on hypergraphs.
+img: assets/img/hypergraph.png
+importance: 1
 category: work
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
@@ -44,7 +44,7 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
+You can also put regular text between your rows of images, even citations {% cite contisciani2022inference %} {% cite lotito2023hypergraphx %} {% cite ruggeri2023community %}.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
