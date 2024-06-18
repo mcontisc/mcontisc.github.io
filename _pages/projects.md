@@ -9,9 +9,9 @@ display_categories:
 horizontal: true
 ---
 
-I am passionate about analyzing **complex networks** that represent real-world systems, such as social support interactions, citation networks, and ecological food webs. My primary interest lies in uncovering the underlying patterns within these data and the mechanisms driving their interactions, a process known as **network inference**. These properties are usually **latent** and must be inferred from the data. 
+I am passionate about analyzing **complex networks** that represent real-world systems, such as social support interactions, citation networks, and ecological food webs. My primary interest lies in uncovering the underlying patterns within these data and understanding the mechanisms that drive their interactions. These characteristics are typically **latent** and must be inferred from the data, a process known as **network inference**. 
 
-My research focuses on developing **probabilistic generative models**, powerful and principled statistical tools for identifying hidden structures in real-world data. These methods describe how data may be generated through underlying variables and parameters, allowing us to incorporate prior knowledge and capture the inherent uncertainty and complexity that often characterize real-world networks.
+My research focuses on developing **probabilistic generative models**, powerful and principled statistical tools for identifying hidden structures in real-world data. These methods describe how data may be generated through underlying variables and parameters, allowing us to incorporate prior knowledge, capture the inherent uncertainty present in the obserseved data, and uncover latent patterns.
 
 
 In this thesis, we present principled and efficient approaches that aim to broaden the range of techniques available for modelling . 
