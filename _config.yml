@@ -325,7 +325,7 @@ scholar:
   sort_by: year, month
   order: descending, descending
   type_order: [unpublished, article]
-  type_names: {unpublished: pre-prints, article: journal articles}
+  type_names: {unpublished: Pre-prints, article: Journal articles}
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
