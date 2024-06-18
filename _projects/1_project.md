@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Attributed multilayer networks
+description: Perform inference on networks with metadata on both edges and nodes
 img: assets/img/attr_het_multi_G.pdf
 importance: 1
 category: work
