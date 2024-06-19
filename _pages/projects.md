@@ -9,12 +9,16 @@ display_categories:
 horizontal: true
 ---
 
-I am passionate about analyzing **complex networks** that represent real-world systems, such as social support interactions, citation networks, and ecological food webs. My primary interest lies in uncovering the underlying patterns within these data and understanding the mechanisms that drive their interactions. These characteristics are typically **latent** and must be inferred from the data, a process known as **network inference**. 
+I am passionate about analyzing **complex networks** that represent real-world systems, such as social support interactions, citation networks, and ecological food webs. My primary interest lies in uncovering the underlying patterns within these data and understanding the mechanisms that drive the interactions. These characteristics are typically **latent** and must be inferred from the data, a process known as **network inference**. 
 
-My research focuses on developing **probabilistic generative models**, which are powerful and principled statistical tools for identifying such hidden structures in real-world data. These methods describe how data may be generated through underlying variables and parameters, allowing us to incorporate prior knowledge, account for the inherent uncertainty in the obserseved data, and uncover latent patterns.
+My research focuses on developing **probabilistic generative models**, which are powerful and principled statistical tools for identifying such hidden structures in real-world networks. These methods describe how data may be generated through underlying variables and parameters, allowing us to incorporate prior knowledge, account for the inherent uncertainty in the obserseved data, and uncover latent patterns.
 
-Specifically, I have been working in three principal directions: i) developing flexible methods to perform inference on attributed multilayer networks, ii) exploring innovative theoretical perspectives for incorporating reciprocity and loosening the assumption of conditional independence in network models, iii) designing foundational models to characterize the structural organization of higher-order data.
-
+Specifically, I have been working in three principal directions: 
+<ul>
+  <li>developing flexible methods to perform inference on **attributed multilayer networks**</li>
+  <li>designing foundational models to characterize the structural organization of **higher-order data**</li>
+  <li>exploring innovative theoretical perspectives for incorporating **reciprocity** and loosening the assumption of **conditional independence** in network models</li>
+</ul>
 For further details, take a look at the single projects and the complete list of <a href="{{ '/publications/' | relative_url }}" style="color: inherit">publications</a>.
 
 <!-- pages/projects.md -->
