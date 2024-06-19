@@ -10,9 +10,15 @@ nav_order: 5
 *Page under construction*
 
 <h1 style="color:black;font-size:1.5rem;">Teaching Assistant</h1> 
-<h2 style="color:black;font-size:1.5rem;">Teaching Assistant</h2> 
-<h3 style="color:black;font-size:1.5rem;">Teaching Assistant</h3> 
-<h4 style="color:black;font-size:1.5rem;">Teaching Assistant</h4> 
+
+<h3 style="color:#9E9E9E;">University of Tübingen</h3> 
+<ul>
+  <li> <a href="https://github.com/APMLA-2021">Advanced Probabilistic Machine Learning and Applications</a> [MSc in Machine Learning] <br>
+  		Lecturer: <a href="https://www.cdebacco.com/">Dr. Caterina De Bacco</a> [SS 2021, WS 2021/2022] <br>
+  		Lecturers: <a href="https://www.cdebacco.com/">Dr. Caterina De Bacco</a>, <a href="https://ivaleram.github.io/">Prof. Isabel Valera</a> [WS 2019/2020] <br>
+  </li>
+  <li>Statistical Machine Learning.</li>
+</ul>
 
 <!---
 font-size: 1.5rem Teaching Assistant
