@@ -2,7 +2,7 @@
 layout: page
 title: Higher-order data
 description: Perform inference on systems involving interactions between groups of nodes of any arbitrary size.
-img: assets/img/project_2.jpg
+img: assets/img/project_3.jpg
 importance: 2
 category: work
 related_publications: true
