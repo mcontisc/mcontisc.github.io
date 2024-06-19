@@ -2,7 +2,7 @@
 layout: page
 title: Attributed multilayer networks
 description: Perform inference on networks with metadata on both edges and nodes.
-img: assets/img/attr_het_multi_G.jpg
+img: assets/img/project_1.jpg
 importance: 1
 category: work
 related_publications: true
