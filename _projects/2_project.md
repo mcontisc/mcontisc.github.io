@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Beyond conditional independence
-description: Perform inference on networks by incorporating reciprocity as mechanism for tie formation.
-img: assets/img/3.jpg
-importance: 3
+title: Higher-order data
+description: Perform inference on systems involving interactions between groups of nodes of any arbitrary size.
+img: assets/img/project_2.jpg
+importance: 2
 category: work
-giscus_comments: true
+related_publications: true
 ---
 
 *Page under construction*
@@ -33,7 +33,7 @@ giscus_comments: true
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite safdari2021generative %} {% cite safdari2022reciprocity %} {% cite contisciani2022community %} {% cite safdari2022reciprocity %} {% cite safdari2023anomaly %}.
+You can also put regular text between your rows of images, even citations {% cite contisciani2022inference %} {% cite lotito2023hypergraphx %} {% cite ruggeri2023community %}.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
