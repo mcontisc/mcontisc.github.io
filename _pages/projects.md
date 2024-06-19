@@ -9,9 +9,9 @@ display_categories:
 horizontal: true
 ---
 
-I am passionate about analyzing **complex networks** that represent real-world systems, such as social support interactions, citation networks, and ecological food webs. My primary interest lies in uncovering the underlying patterns within these data and understanding the mechanisms that drive the interactions. These characteristics are typically **latent** and must be inferred from the data, a process known as **network inference**. 
+I am passionate about analyzing <b>complex networks</b> that represent real-world systems, such as social support interactions, citation networks, and ecological food webs. My primary interest lies in uncovering the underlying patterns within these data and understanding the mechanisms that drive the interactions. These characteristics are typically <b>latent</b> and must be inferred from the data, a process known as <b>network inference</b>. 
 
-My research focuses on developing **probabilistic generative models**, which are powerful and principled statistical tools designed to identify hidden structures in real-world networks. These methods explain how data may be generated through underlying variables and parameters, allowing us to incorporate **prior knowledge**, account for the inherent **uncertainty** in observed data, and uncover **latent patterns**. A key challenge in this development is ensuring that these models effectively capture the multifaceted complexity of real-world data while remaining **computational efficiency**.
+My research focuses on developing <b>probabilistic generative models**, which are powerful and principled statistical tools designed to identify hidden structures in real-world networks. These methods explain how data may be generated through underlying variables and parameters, allowing us to incorporate <b>prior knowledge**, account for the inherent <b>uncertainty</b> in observed data, and uncover <b>latent patterns**. A key challenge in this development is ensuring that these models effectively capture the multifaceted complexity of real-world data while remaining <b>computational efficiency</b>.
 
 Specifically, I have been working in three different directions: 
 <ul>
