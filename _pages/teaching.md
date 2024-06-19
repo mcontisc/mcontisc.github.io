@@ -9,13 +9,10 @@ nav_order: 5
 
 *Page under construction*
 
-span {
-      font-size: 1.5rem;
-    } {
-  font-size: 1.5rem;
-}
-
-<span font-size: 1.5rem;>Teaching Assistant</span>
+<h1 style="color:black;font-size:1.5rem;">Teaching Assistant</h1> 
+<h2 style="color:black;font-size:1.5rem;">Teaching Assistant</h2> 
+<h3 style="color:black;font-size:1.5rem;">Teaching Assistant</h3> 
+<h4 style="color:black;font-size:1.5rem;">Teaching Assistant</h4> 
 
 <!---
 font-size: 1.5rem Teaching Assistant
