@@ -9,6 +9,7 @@ related_publications: true
 ---
 
 *Page under construction*
+Summarize Hypergraph-MT, Hy-MMSBM, library
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
