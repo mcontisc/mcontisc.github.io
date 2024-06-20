@@ -13,7 +13,7 @@ nav_order: 5
 
 <h5 style="color:#9E9E9E;">University of Tübingen</h5> 
 <ul>
-  <li> <a href="https://github.com/APMLA-2021">Advanced Probabilistic Machine Learning and Applications</a>, MSc in Machine Learning <br>
+  <li> <p style="font-weight: bolder";> <a href="https://github.com/APMLA-2021">Advanced Probabilistic Machine Learning and Applications</a></p>, MSc in Machine Learning <br>
   		Lecturer: <a href="https://www.cdebacco.com/">Dr. Caterina De Bacco</a> [SS 2021, WS 2021/2022] <br>
   		Lecturers: <a href="https://www.cdebacco.com/">Dr. Caterina De Bacco</a>, <a href="https://ivaleram.github.io/">Prof. Isabel Valera</a> [WS 2019/2020] <br>
   </li>
