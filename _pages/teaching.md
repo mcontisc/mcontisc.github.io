@@ -10,10 +10,10 @@ nav_order: 5
 <h1 style="color:black;font-size:1.5rem;">Teaching Assistant</h1> 
 
 <h5 style="color:#9E9E9E;">University of Tübingen</h5> 
-<ul>
+<ul style="line-height:1.4;">
   <li> <b><a href="https://github.com/APMLA-2021">Advanced Probabilistic Machine Learning and Applications</a></b>, MSc in Machine Learning <br>
-  		  Lecturer: <a href="https://www.cdebacco.com/">Dr. Caterina De Bacco</a> [SS 2021, WS 2021/2022] <br>
-  		  Lecturers: <a href="https://www.cdebacco.com/">Dr. Caterina De Bacco</a>, <a href="https://ivaleram.github.io/">Prof. Isabel Valera</a> [WS 2019/2020] <br>
+  		  <font color="#9E9E9E">[SS 2021, WS 2021/2022]</font> > Lecturer: <a href="https://www.cdebacco.com/">Dr. Caterina De Bacco</a><br>
+  		  <font color="#9E9E9E">[WS 2019/2020]</font> > Lecturers: <a href="https://www.cdebacco.com/">Dr. Caterina De Bacco</a>, <a href="https://ivaleram.github.io/">Prof. Isabel Valera</a>
   </li>
   <li> <b><a href="https://www.tml.cs.uni-tuebingen.de/teaching/2020_statistical_learning/index.php">Statistical Machine Learning</a></b>, MSc in Machine Learning <br>
   		  Lecturer: <a href="https://www.tml.cs.uni-tuebingen.de/team/luxburg/index.php">Prof. Ulrike von Luxburg</a> [SS 2020]
@@ -28,11 +28,9 @@ nav_order: 5
 <ul>
   <li> <b>Analisi di dati di reti a più livelli</b>, BSc in Statistics <br>
         Lecture on the analysis of multilayer networks, presented as part of the course <a href="https://didattica.unipd.it/off/2020/LT/SC/SC2095/000ZZ/SCP4063754/N0">Statistical Methods for Big Data</a>, taught by <a href="https://tonycanale.github.io/">Prof. Antonio Canale</a> [AA 2021/2022]
-
-        Lecture on the analysis of multilayer networks, part of the course Statistical Methods for Big Data, taught by Prof. Antonio Canale during the 2021/2022 academic year.
   </li>
   <li> <b>Modelli probabilistici nell'analisi delle reti</b>, BSc in Statistics <br>
-        Lecture on probabilistic models for network data analysis, presented as part of the course <a href="https://didattica.unipd.it/off/2019/LT/SC/SC2094/000ZZ/SCP4063754/N0">Statistical Methods for Big Data</a> thought by <a href="https://tonycanale.github.io/">Prof. Antonio Canale</a> <p style="color:#9E9E9E;">[AA 2020/2021]</p>
+        Lecture on probabilistic models for network data analysis, presented as part of the course <a href="https://didattica.unipd.it/off/2019/LT/SC/SC2094/000ZZ/SCP4063754/N0">Statistical Methods for Big Data</a> thought by <a href="https://tonycanale.github.io/">Prof. Antonio Canale</a> <font color="#9E9E9E">[AA 2020/2021]</font>
   </li>
 </ul>
 

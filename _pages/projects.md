@@ -13,7 +13,7 @@ I am passionate about analyzing <b>complex networks</b> that represent real-worl
 
 My research focuses on developing <b>probabilistic generative models</b>, which are powerful and principled statistical tools designed to identify hidden structures in real-world networks. These methods explain how data may be generated through underlying variables and parameters, allowing us to incorporate <b>prior knowledge</b>, account for the inherent <b>uncertainty</b> in observed data, and uncover <b>latent patterns</b>. A key challenge in this development is ensuring that these models effectively capture the multifaceted complexity of real-world data while remaining <b>computational efficiency</b>.
 
-Specifically, I have been working in three different directions: 
+Specifically, my work has concentrated on three main areas:
 <ul>
   <li>Developing methods to perform inference on <b>attributed multilayer networks</b>.</li>
   <li>Designing models to characterize the structural organization of <b>higher-order data</b>.</li>
