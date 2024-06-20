@@ -10,11 +10,13 @@ related_publications: true
 
 *Page under construction*
 
+<!---
 Write two sentences about the data.
 
 Briefly explain the models and the library. Hypergraph-MT, Hy-MMSBM, HGX
 
 Present some results with some plots.
+--->
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
