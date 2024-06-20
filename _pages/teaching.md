@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-<h1 style="color:black;font-size:1.5rem;">Teaching Assistant</h1> 
+<h1 style="color:var(--global-text-color);font-size:1.5rem;">Teaching Assistant</h1> 
 
 <h5 style="color:#9E9E9E;">University of Tübingen</h5> 
 <ul style="line-height:1.4;">
