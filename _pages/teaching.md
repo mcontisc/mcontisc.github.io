@@ -22,7 +22,7 @@ nav_order: 5
 
 <hr color="#9E9E9E">
 
-<h1 style="color:black;font-size:1.5rem;">Guest Lectures</h1> 
+<h1 style="color:var(--global-text-color);font-size:1.5rem;">Guest Lectures</h1> 
 
 <h5 style="color:#9E9E9E;">University of Padua</h5> 
 <ul>
