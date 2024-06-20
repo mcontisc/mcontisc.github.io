@@ -16,7 +16,6 @@ Write two sentences about the data.
 Briefly explain the models and the library. Hypergraph-MT, Hy-MMSBM, HGX
 
 Present some results with some plots.
-
 --->
 
 <div class="row">
