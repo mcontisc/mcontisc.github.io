@@ -20,7 +20,7 @@ nav_order: 5
   </li>
 </ul>
 
-<hr color="#ADADAD">
+<hr color="#9E9E9E">
 
 <h1 style="color:black;font-size:1.5rem;">Guest Lectures</h1> 
 
