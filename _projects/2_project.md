@@ -10,7 +10,7 @@ related_publications: true
 
 *Page under construction*
 
-Real-world systems in various domains exhibit interactions involving three or more system units simultaneously. Therefore, these systems are best described using mathematical frameworks like <b>hypergraphs</b>, which can represent relationships among any number of nodes through hyperedges of varying dimensions, rather than traditional networks. As a result, the models used to analyse such data must extend beyond conventional dyadic interactions (represented as $$ A_{ij} $$) and instead focus on hyperedges, referred to as $$ d $$-dimensional interactions $$ A_e $$, where $$ d = |e| $$.
+Real-world systems in various domains exhibit interactions involving three or more system units simultaneously. Therefore, these systems are best described using mathematical frameworks like <b>hypergraphs</b>, which can represent relationships among any number of nodes through <b>hyperedges</b> of varying dimensions, rather than traditional networks. As a result, the models used to analyse such data must extend beyond conventional dyadic interactions (represented as $$ A_{ij} $$) and instead focus on hyperedges, referred to as $$ d $$-dimensional interactions $$ A_e $$, where $$ d = \|e\| $$.
 
 
 <!---
