@@ -10,11 +10,10 @@ related_publications: true
 
 *Page under construction*
 
-Higher-order data represent systems which involve interactions between groups of nodes of any arbitrary size. As a result, the models discussed here extend beyond conventional dyadic interactions (represented as $A_{ij}$) and instead focus on hyperedges, referred to as $d$-dimensional interactions $A_e$, where $d = |e|$.
+Real-world systems in various domains exhibit interactions involving three or more system units simultaneously. Therefore, these systems are best described using mathematical frameworks like <b>hypergraphs</b>, which can represent relationships among any number of nodes through hyperedges of varying dimensions, rather than traditional networks. As a result, the models used to analyse such data must extend beyond conventional dyadic interactions (represented as $$ A_{ij} $$) and instead focus on hyperedges, referred to as $$ d $$-dimensional interactions $$ A_e $$, where $$ d = |e| $$.
+
 
 <!---
-Write two sentences about the data.
-
 Briefly explain the models and the library. Hypergraph-MT, Hy-MMSBM, HGX
 
 Present some results with some plots.
