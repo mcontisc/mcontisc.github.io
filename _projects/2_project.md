@@ -10,6 +10,8 @@ related_publications: true
 
 *Page under construction*
 
+Higher-order data represent systems which involve interactions between groups of nodes of any arbitrary size. As a result, the models discussed here extend beyond conventional dyadic interactions (represented as $A_{ij}$) and instead focus on hyperedges, referred to as $d$-dimensional interactions $A_e$, where $d = |e|$.
+
 <!---
 Write two sentences about the data.
 
