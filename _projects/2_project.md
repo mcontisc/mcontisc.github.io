@@ -22,6 +22,6 @@ These models, along with a broad range of other tools and algorithms for handlin
 <ul>
   <li>Our models reliably predict the existence of higher-order interactions of arbitrary size.</li>
   <li><code>Hypergraph-MT</code> detects communities that reliable depict the information carried by hyperedges and exhibit robustness against the addition of noisy interactions.</li>
-  <li><code>Hy-MMSBM</code> consistently and accurately retrieves the planted communities in scenarios with varying hyperedges sizes. It also effectively captures assortative and disassortative community structures and correctly represents core-periphery configurations.</li>
+  <li><code>Hy-MMSBM</code> accurately retrieves the planted communities in scenarios with varying hyperedges sizes, effectively captures assortative and disassortative community structures, and correctly represents core-periphery configurations.</li>
 </ul>
 
