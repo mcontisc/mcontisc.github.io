@@ -19,6 +19,7 @@ Specifically, my work has concentrated on three main areas:
   <li>Designing models to characterize the structural organization of <b>higher-order data</b>.</li>
   <li>Exploring theoretical perspectives for incorporating <b>reciprocity</b> in network models through the relaxation of the <b>conditional independence</b> assumption.</li>
 </ul>
+
 For additional information, take a look at the projects pages and the complete list of <a href="{{ '/publications/' | relative_url }}" style="color: inherit">publications</a>.
 
 <!-- pages/projects.md -->
