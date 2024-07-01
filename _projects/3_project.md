@@ -5,7 +5,6 @@ description: Perform inference on networks by incorporating reciprocity as mecha
 img: assets/img/project_3.jpg
 importance: 3
 category: work
-giscus_comments: true
 ---
 
 *Page under construction*

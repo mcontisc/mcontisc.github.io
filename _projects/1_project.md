@@ -10,61 +10,12 @@ related_publications: true
 
 *Page under construction*
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+Advancements in data collection techniques have led to the acquisition of more comprehensive data, particularly by gathering additional information that characterizes the nodes and their interactions within real-world systems. These enriched data are effectively represented by <b>attributed multilayer networks</b>, which are complex network representations that describe <b>multiple types of interactions</b> among the same set of nodes, while also incorporating node information such as <b>attributes or covariates</b>. To properly analyze such data, models must integrate various sources of information in a convenient and principled manner, leveraging both the network topology and the node metadata.
 
-You can also put regular text between your rows of images, even citations {% cite contisciani2020community %} {% cite higham2022multilayer %} {% cite contisciani2024flexible %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+We developed two distinct <b>probabilistic models</b>, named <code>MTCOV</code> {% cite contisciani2020community %} and <code>PIHAM</code> {% cite contisciani2024flexible %}, designed to perform <b>community detection</b> and broader <b>inference in attributed multilayer networks</b>. Both models posit the existence of a hidden <b>mixed-membership community structure</b> that drives the generation of both interactions and node attributes, but they differ in their model specification and inference.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+Specifically, <code>MTCOV</code> is designed to handle categorical attributes and nonnegative discrete weights, specifying the likelihood of the data through a linear combination of the likelihoods from the two sources of information. Additionally, inference is performed using an efficient EM algorithm. On the other hand, <code>PIHAM</code> flexibly adapts to any combination of input data and employs a Bayesian framework combined with the Laplace matching technique to ease interpretation of inferred parameters. Furthermore, the algorithmic implementation relies on automatic differentiation, avoiding the need for explicit derivations. 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+In addition to applying these methods to already explored real-world data, such as social and biological networks, we employed this methodology for the first time in the analysis of patent citation networks {% cite higham2022multilayer %}. In this context, we not only illustrated the importance of using a multilayer framework for patent citation data analysis but also emphasized the role of a node covariate in driving the inference, alongside the structural information embedded within the network.
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+<h3>Main takeaways</h3>
