@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+description: Network Science - Probabilistic Modeling - Statistical Inference - Machine Learning
 permalink: /projects/
 description: 
 nav: true
