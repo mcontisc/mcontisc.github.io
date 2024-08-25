@@ -8,13 +8,13 @@ category: work
 related_publications: true
 ---
 
-In recent years, real-world data from diverse domains, including social and biological systems, have revealed interactions that go beyond pairwise connections, involving groups of nodes of various sizes. <b>Hypergraphs</b> provide a versatile and comprehensive framework for characterizing systems where such higher-order interactions are relevant. To analyze such data, models must extend beyond conventional dyadic interactions (represented as $$ A_{ij} $$) and instead focus on <b>hyperedges</b>, referred to as $$ d $$-dimensional interactions $$ A_e $$, where $$ d = \|e\| $$.
+In recent years, real-world data from diverse domains, including social and biological systems, have revealed interactions that go beyond pairwise connections, involving groups of nodes of various sizes. <b>Hypergraphs</b> provide a versatile and comprehensive framework for characterizing systems where such <b>higher-order interactions</b> are relevant. To analyze such data, models must extend beyond conventional dyadic interactions (represented as $$A_{ij}$$) and instead focus on <b>hyperedges</b>, referred to as $$d$$-dimensional interactions $$A_e$$, where $$d=\|e\|$$.
 
 We developed two distinct <b>probabilistic models</b> designed to perform <b>inference on hypergraphs</b> while capturing their hidden structural organization. These models, named <code>Hypergraph-MT</code> {% cite contisciani2022inference %} and <code>Hy-MMSBM</code> {% cite ruggeri2023community %}, posit the existence of a <b>mixed-membership community structure</b> as the main generative process, and utilize Poisson distributions to model the hyperedges. The main difference between the two approaches lies in how they integrate latent variables into the model, leading to two different assumptions about data generation. 
 
 Specifically, <code>Hypergraph-MT</code> describes a hyperedge through the product of the memberships of all nodes involved, assuming exclusively assortative community structures to make this computation feasible. On the other hand, <code>Hy-MMSBM</code> relaxes the assortativity constraint and flexibly captures various community structures, such as disassortative and core-periphery. It achieves this by employing a bilinear form to link hyperedge probabilities and node community memberships.
 
-These models, along with a broad range of other tools and algorithms for handling data with higher-order interactions, are available in the Python library <code>hypergraphx</code> {% cite lotito2023hypergraphx %}.
+These models, along with a broad range of other tools and algorithms for handling data with higher-order interactions, are available in the <b>Python library</b> <code>hypergraphx</code> {% cite lotito2023hypergraphx %}.
 
 <h3>Main takeaways</h3>
 <ul>

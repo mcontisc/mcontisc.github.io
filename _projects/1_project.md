@@ -14,7 +14,7 @@ We developed two distinct <b>probabilistic models</b>, named <code>MTCOV</code> 
 
 Specifically, <code>MTCOV</code> is designed to handle categorical attributes and nonnegative discrete weights, specifying the likelihood of the data through a linear combination of the likelihoods from the two sources of information. Additionally, inference is performed using an efficient EM algorithm. On the other hand, <code>PIHAM</code> flexibly adapts to any combination of input data and employs a Bayesian framework, along with Laplace approximations and automatic differentiation techniques for parameter inference.
 
-In addition to applying these methods to already explored real-world data, such as social and biological networks, we employed this methodology for the first time in the analysis of patent citation networks {% cite higham2022multilayer %}. In this context, we not only illustrated the importance of using a multilayer framework for patent citation data analysis but also emphasized the role of a node covariate in driving the inference, alongside the structural information embedded within the network.
+In addition to applying these methods to already explored real-world data, such as social and biological networks, we employed this methodology for the first time in the analysis of <b>patent citation networks</b> {% cite higham2022multilayer %}. In this context, we not only illustrated the importance of using a multilayer framework for patent citation data analysis but also emphasized the role of a node covariate in driving the inference, alongside the structural information embedded within the network.
 
 <h3>Main takeaways</h3>
 <ul>
