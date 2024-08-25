@@ -13,11 +13,12 @@ We developed several <b>probabilistic models</b> aimed at performing <b>inferenc
 
 Specifically, <code>CRep</code> is designed for analyzing directed networks with nonnegative discrete weights, utilizing Poisson distributions to model the conditional distributions and a pseudo-likelihood approximation to represent the network's likelihood. In contrast, <code>JointCRep</code> uses a Bivariate Bernoulli distribution to model the joint distribution of edges between node pairs in a closed form, making it suitable for analyzing binary directed networks.
 
-Furthermore, we extended these frameworks to address other scenarios and applications: <code>DynCRep</code> {% cite safdari2022reciprocity %} extends <code>CRep</code> to analyze <b>dynamic networks</b>, which are networks that change over time; <code>CRAD</code> {% cite safdari2023anomaly %} builds on the formalism of <code>JointCRep</code> to develop a probabilistic generative approach for <b>anomaly detection</b> on network edges; and <code>VIMuRe</code> {% cite debacco2023latent %} is a method to estimate the unobserved network structure from multiply reported data, incorporating a reciprocity parameter based on the principles of <code>CRep</code>, reflecting the intuition that reporters tend to nominate the same individuals in both directions of a relationship.
+Furthermore, we extended these frameworks to address other scenarios and applications: <code>DynCRep</code> {% cite safdari2022reciprocity %} extends <code>CRep</code> to analyze <b>dynamic networks</b>, which are networks that change over time; <code>CRAD</code> {% cite safdari2023anomaly %} builds on the formalism of <code>JointCRep</code> to develop a probabilistic generative approach for <b>anomaly detection</b> on network edges; and <code>VIMuRe</code> {% cite debacco2023latent %} is a method to estimate the <b>unobserved network structure from multiply reported data</b>, incorporating a reciprocity parameter based on the principles of <code>CRep</code>, reflecting the intuition that reporters tend to nominate the same individuals in both directions of a relationship.
 
 <h3>Main takeaways</h3>
 <ul>
-  <li>Explicitly modeling pairwise dependencies increases results robustness and boosts performance in prediction and network reconstruction tasks.
+  <li>Explicitly modeling pairwise dependencies increases results robustness and boosts performance in prediction and network reconstruction tasks.</li>
   <li>Our frameworks accurately capture reciprocity and other model parameters, while also estimating the relative contributions of community structure and reciprocity in determining individual edges.</li>
   <li>Our methods function not only as tools for network inference but also as benchmark models, capable of generating synthetic data that align with the underlying assumptions of each algorithm.</li>
 </ul>
+
