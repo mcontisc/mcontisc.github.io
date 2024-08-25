@@ -5,6 +5,7 @@ description: Perform inference on networks by incorporating reciprocity as mecha
 img: assets/img/project_3.jpg
 importance: 3
 category: work
+related_publications: true
 ---
 
 <b>Directed networks</b> represent real-world data where interactions have a specific direction. Traditional approaches for analyzing these networks often rely on community detection algorithms, which assume that interactions are solely determined by hidden partitions of nodes. However, many real networks exhibit other mechanisms that influence tie formation, such as <b>reciprocity</b>—the tendency of a pair of nodes to form mutual connections. To effectively account for reciprocity, standard generative models must go beyond the assumption of <b>conditional independence</b> and instead model the edges between node pairs jointly, rather than treating them as independent.
