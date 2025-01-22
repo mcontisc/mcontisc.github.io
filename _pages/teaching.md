@@ -24,6 +24,13 @@ nav_order: 5
 
 <h1 style="color:var(--global-text-color);font-size:1.5rem;">Guest Lectures</h1> 
 
+<h5 style="color:#9E9E9E;">Central European University</h5> 
+<ul>
+  <li> <b>The stochastic block model</b>, PhD in Network Science <br>
+        <font color="#9E9E9E">[WT 2024/2025]</font> > Lecture on the stochastic block model presented as part of the course Structure and Dynamics of Complex Networks, taught by <a href="https://people.ceu.edu/federico_battiston">Prof. Federico Battiston</a>
+  </li>
+</ul>
+
 <h5 style="color:#9E9E9E;">University of Padua</h5> 
 <ul>
   <li> <b>Analisi di dati di reti a più livelli</b>, BSc in Statistics <br>
