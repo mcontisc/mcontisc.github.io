@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-<i class="fa-sharp fa-solid fa-code"></i> We have released a new Python package for network modelling called
+<i class="fa-sharp fa-solid fa-laptop-code"></i> We have released a new Python package for network modelling called
 <a href="https://mpi-is.github.io/probinet/">ProbINet</a>.
