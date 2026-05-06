@@ -27,7 +27,7 @@ nav_order: 5
 <h5 style="color:#9E9E9E;">Central European University</h5> 
 <ul>
   <li> <b>The stochastic block model</b>, PhD in Network Science <br>
-        <font color="#9E9E9E">[WT 2024/2025]</font> > Lecture on the stochastic block model presented as part of the course Structure and Dynamics of Complex Networks, taught by <a href="https://people.ceu.edu/federico_battiston">Prof. Federico Battiston</a>
+        <font color="#9E9E9E">[WT 2025, FT 2025]</font> > Lecture on the stochastic block model presented as part of the course Structure and Dynamics of Complex Networks, taught by <a href="https://people.ceu.edu/federico_battiston">Prof. Federico Battiston</a>
   </li>
 </ul>
 
@@ -37,19 +37,7 @@ nav_order: 5
         <font color="#9E9E9E">[AA 2021/2022]</font> > Lecture on the analysis of multilayer networks, presented as part of the course <a href="https://didattica.unipd.it/off/2020/LT/SC/SC2095/000ZZ/SCP4063754/N0">Statistical Methods for Big Data</a>, taught by <a href="https://tonycanale.github.io/">Prof. Antonio Canale</a>
   </li>
   <li> <b>Modelli probabilistici nell'analisi delle reti</b>, BSc in Statistics <br>
-        <font color="#9E9E9E">[AA 2020/2021]</font> > Lecture on probabilistic models for network data analysis, presented as part of the course <a href="https://didattica.unipd.it/off/2019/LT/SC/SC2094/000ZZ/SCP4063754/N0">Statistical Methods for Big Data</a> thought by <a href="https://tonycanale.github.io/">Prof. Antonio Canale</a>
+        <font color="#9E9E9E">[AA 2020/2021]</font> > Lecture on probabilistic models for network data analysis, presented as part of the course <a href="https://didattica.unipd.it/off/2019/LT/SC/SC2094/000ZZ/SCP4063754/N0">Statistical Methods for Big Data</a>, taught by <a href="https://tonycanale.github.io/">Prof. Antonio Canale</a>
   </li>
 </ul>
 
-<!---
-font-size: 1.5rem Teaching Assistant
-- Advanced Probabilistic Machine Learning and Applications, MSc, WS 2019/2020, SS 2021, WS 2021/2022
-- Statistical Machine Learning, MSc, SS 2020
-
-Guest Lectures 
-- Analisi di dati di reti a più livelli, Dept. of Statistical Sciences, Padova, 2022
-- Modelli probabilistici nell'analisi delle reti, Dept. of Statistical Sciences, Padova, 2021
-
-STATISTICAL METHODS FOR BIG DATA
-
--->
