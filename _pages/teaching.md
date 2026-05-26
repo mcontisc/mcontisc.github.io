@@ -8,7 +8,7 @@ nav_order: 5
 ---
 <h1 style="color:var(--global-text-color);font-size:1.5rem;">Guest Lectures</h1> 
 
-<h5 style="color:#9E9E9E;">Uppsala University</h5> 
+<h5 style="color:#9E9E9E;">Uppsala University</h5>  
 <ul>
   <li> <b>Inference in networks</b>, PhD <br>
         <font color="#9E9E9E">[Spring 2026]</font> > Lecture on inference in networks presented as part of the course <a href="https://uuinfolab.github.io/courses/networkscience_phd2026">Introduction to Network Science</a>, organized by <a href="https://uuinfolab.github.io/">UU-Infolab</a>
