@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2025-01-09
+date: 2025-01-31
 inline: true
 related_posts: false
 ---
 
-<i class="fa-sharp fa-solid fa-file-lines"></i> The paper "<a href="https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgaf005/7950749">Flexible inference in heterogeneous and attributed multilayer networks</a>" is now published in <a href="https://academic.oup.com/pnasnexus">PNAS Nexus</a>.
+<i class="fa-sharp fa-solid fa-laptop-code"></i> We have released a new Python package for network modelling called
+<a href="https://mpi-is.github.io/probinet/">ProbINet</a>.

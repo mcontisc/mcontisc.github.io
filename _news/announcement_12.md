@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-18
+date: 2026-02-26
 inline: true
 related_posts: false
 ---
 
-<i class="fa-sharp fa-solid fa-person-chalkboard"></i> Upcoming talk at <a href="https://iiasa.ac.at/">IIASA</a> for the <a href="https://iiasa.ac.at/programs/popjus">POPJUS Guest Seminar</a>. I will present the WWTF-funded project <a href="https://moma.science//">Multiscale network modelling of migration flows in Austria (MOMA)</a> and discuss preliminary results from our recent <a href="https://arxiv.org/abs/2507.11503">paper</a>.
+<i class="fa-sharp fa-solid fa-person-chalkboard"></i> Upcoming talks at the Vienna Workshop on Migration Modeling. <a href="https://thomasrobiglio.github.io/">Thomas Robiglio</a> will give a presentation on the sociodemographic differences in Austrian migration networks, while my talk will be about the multiscale patterns of migration flows in Austria.

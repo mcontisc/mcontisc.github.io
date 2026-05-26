@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2025-01-31
+date: 2025-06-05
 inline: true
 related_posts: false
 ---
 
-<i class="fa-sharp fa-solid fa-laptop-code"></i> We have released a new Python package for network modelling called
-<a href="https://mpi-is.github.io/probinet/">ProbINet</a>.
+<i class="fa-sharp fa-solid fa-person-chalkboard"></i> Upcoming talk at <a href="https://netsci2025.github.io/">NetSci 2025</a>. I will present an analysis of migration flows in Austria using inferential network models during the session "Mobility and spatial networks".
