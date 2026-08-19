@@ -22,4 +22,3 @@ Furthermore, we extended these frameworks to address other scenarios and applica
   <li>Our frameworks accurately capture reciprocity and other model parameters, while also estimating the relative contributions of community structure and reciprocity in determining individual edges.</li>
   <li>Our methods function not only as tools for network inference but also as benchmark models, capable of generating synthetic data that align with the underlying assumptions of each algorithm.</li>
 </ul>
-

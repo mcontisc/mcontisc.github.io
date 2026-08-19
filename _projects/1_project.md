@@ -22,5 +22,3 @@ In addition to applying these methods to already explored real-world data, such 
   <li>Better outcomes are achieved when the node metadata are more informative and exhibit some degree of correlation with the information conveyed by the interactions.</li>
   <li>When the node metadata offer valuable insights, our models identify communities that align with this information. This approach leads to more interpretable results, where attributes actively influence the inference process.</li>
 </ul>
-
-

@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Martina
-middle_name: 
+middle_name:
 last_name: Contisciani
 email: contiscianim@ceu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -18,7 +18,7 @@ keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 〽️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 url: https://mcontisc.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -110,7 +110,7 @@ x_username: mcontisc # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
-contact_note: 
+contact_note:
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -325,7 +325,7 @@ scholar:
   sort_by: year, month
   order: descending, descending
   type_order: [unpublished, article, thesis]
-  type_names: {unpublished: Preprints, article: Journal articles, thesis: Theses}
+  type_names: { unpublished: Preprints, article: Journal articles, thesis: Theses }
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
@@ -355,7 +355,7 @@ filtered_bibtex_keywords:
     supp,
     video,
     website,
-    list
+    list,
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)

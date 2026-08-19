@@ -2,11 +2,12 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: 
+description:
 nav: true
 nav_order: 5
 ---
-<h1 style="color:var(--global-text-color);font-size:1.5rem;">Guest Lectures</h1> 
+
+<h1 style="color:var(--global-text-color);font-size:1.5rem;">Guest Lectures</h1>
 
 <h5 style="color:#9E9E9E;">Uppsala University</h5>  
 <ul>
@@ -14,7 +15,6 @@ nav_order: 5
         <font color="#9E9E9E">[Spring 2026]</font> > Lecture on inference in networks presented as part of the course <a href="https://uuinfolab.github.io/courses/networkscience_phd2026">Introduction to Network Science</a>, organized by <a href="https://uuinfolab.github.io/">UU-Infolab</a>
   </li>
 </ul>
-
 
 <h5 style="color:#9E9E9E;">Central European University</h5> 
 <ul>
@@ -35,7 +35,7 @@ nav_order: 5
 
 <hr color="#9E9E9E">
 
-<h1 style="color:var(--global-text-color);font-size:1.5rem;">Teaching Assistant</h1> 
+<h1 style="color:var(--global-text-color);font-size:1.5rem;">Teaching Assistant</h1>
 
 <h5 style="color:#9E9E9E;">University of Tübingen</h5> 
 <ul style="line-height:1.4;">
@@ -47,6 +47,3 @@ nav_order: 5
   		  <font color="#9E9E9E">[SS 2020]</font> > Lecturer: <a href="https://www.tml.cs.uni-tuebingen.de/team/luxburg/index.php">Prof. Ulrike von Luxburg</a>
   </li>
 </ul>
-
-
-
