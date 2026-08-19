@@ -70,6 +70,12 @@ jobs:
         with:
           ruby-version: "3.3"
           bundler-cache: true
+
+      - name: Install ImageMagick
+        run: |
+          sudo apt-get install -y imagemagick
+          magick -version
+
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
@@ -77,10 +83,7 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
-- name: Install ImageMagick
-        run: |
-          sudo apt-get install -y imagemagick
-          magick -version
+
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
