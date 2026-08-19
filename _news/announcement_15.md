@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-08-27
+date: 2025-01-09
 inline: true
 related_posts: false
 ---
 
-<i class="fa-sharp fa-solid fa-person-chalkboard"></i> Upcoming talk at <a href="https://www.compstat2026.org/index.php">COMPSTAT 2026</a>. I will present the paper "<a href="https://arxiv.org/abs/2507.11503">Multiscale patterns of migration flows in Austria: regionalization, administrative barriers, and urban-rural divides</a>" during the session "Inference of complex structure in network data".
+<i class="fa-sharp fa-solid fa-file-lines"></i> The paper "<a href="https://joss.theoj.org/papers/10.21105/joss.08638">ProbINet: Bridging Usability Gaps in Probabilistic Network Analysis</a>" is now published in <a href="https://joss.theoj.org/">JOSS</a>.
