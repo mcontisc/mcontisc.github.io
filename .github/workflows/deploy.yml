@@ -77,10 +77,10 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
-      - name: Check ImageMagick
+- name: Install ImageMagick
         run: |
-          which magick || which convert
-          magick -version || convert -version
+          sudo apt-get install -y imagemagick
+          magick -version
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
