@@ -7,6 +7,17 @@ nav: true
 nav_order: 5
 ---
 
+<h1 style="color:var(--global-text-color);font-size:1.5rem;">Courses</h1>
+
+<h5 style="color:#9E9E9E;">Goethe University Frankfurt</h5> 
+<ul style="line-height:1.4;">
+  <li> <b><a href="https://skewed.de/lab/courses/dataviz/">Analytical Data Visualization</a></b>, MSc in Computer Science <br>
+        <font color="#9E9E9E">[WS 2026/2027]</font> > Co-Lecturer: <a href="https://bastikusch.github.io/">Sebastian Kusch</a><br>
+  </li>
+</ul>
+
+<hr color="#9E9E9E">
+
 <h1 style="color:var(--global-text-color);font-size:1.5rem;">Guest Lectures</h1>
 
 <h5 style="color:#9E9E9E;">Uppsala University</h5>  
@@ -36,6 +47,13 @@ nav_order: 5
 <hr color="#9E9E9E">
 
 <h1 style="color:var(--global-text-color);font-size:1.5rem;">Teaching Assistant</h1>
+
+<h5 style="color:#9E9E9E;">Goethe University Frankfurt</h5> 
+<ul style="line-height:1.4;">
+  <li> <b><a href="https://skewed.de/lab/courses/inference/">Information theory, inference, and learning algorithms</a></b>, MSc in Computer Science <br>
+        <font color="#9E9E9E">[WS 2026/2027]</font> > Lecturer: <a href="https://skewed.de/lab/tiago.html">Prof. Tiago P. Peixoto</a><br>
+  </li>
+</ul>
 
 <h5 style="color:#9E9E9E;">University of Tübingen</h5> 
 <ul style="line-height:1.4;">
